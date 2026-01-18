@@ -4,7 +4,7 @@
 To develop an admin dashboard with CSS Grid layout and dynamic theme switching.
 
 ## 2. Objective
-- Create grid-based responsive layout  
+- Create grid-based responsive layout   
 - Implement dark/light mode toggle  
 - Use CSS variables for theme management  
 - Persist theme preference using `localStorage`  
