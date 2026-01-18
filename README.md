@@ -1,5 +1,10 @@
 # Experiment 1.3: Admin Dashboard
 
+## Personal Information
+- **Name:** Madhumitha K
+- **UID:** <24BDA70245>
+- **Group:** <24BDS2-B>
+
 ## 1. Aim
 To develop an admin dashboard with CSS Grid layout and dynamic theme switching.
 
